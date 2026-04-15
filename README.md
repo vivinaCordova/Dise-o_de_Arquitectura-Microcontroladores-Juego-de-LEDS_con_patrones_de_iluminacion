@@ -1,0 +1,2 @@
+# Dise-o_de_Arquitectura-Microcontroladores-Juego-de-LEDS_con_patrones_de_iluminacion
+Diseño e implementación de un sistema interactivo de juego de luces con 6 LEDs de diferentes colores controlados por un pulsador. Aplicar conceptos de funciones, variables, bloques condicionales (if-else, switch-case) y bucles (for, while) para crear patrones de iluminación secuenciales que respondan a la entrada del usuario 
